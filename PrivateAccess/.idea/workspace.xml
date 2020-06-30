@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c34aa65-70ad-48f6-9aa9-9c8ee1941162" name="Default Changelist" comment="" />
+    <list default="true" id="ca566d62-0db5-4d4f-a1f9-90321a7c0ade" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,29 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pack1/One.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pack2/One.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/First.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="238">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -54,13 +36,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/pack1/One.java" />
-        <option value="$PROJECT_DIR$/src/com/pack2/One.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/First.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="45" />
     <option name="y" value="215" />
     <option name="width" value="1750" />
@@ -76,37 +56,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="Packagesss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Packagesss" type="462c0819:PsiDirectoryNode" />
+              <item name="PrivateAccess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PrivateAccess" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Packagesss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Packagesss" type="462c0819:PsiDirectoryNode" />
+              <item name="PrivateAccess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PrivateAccess" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Packagesss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Packagesss" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Packagesss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Packagesss" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="pack1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Packagesss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Packagesss" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="pack2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Packagesss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -132,11 +88,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9c34aa65-70ad-48f6-9aa9-9c8ee1941162" name="Default Changelist" comment="" />
-      <created>1593507400354</created>
+      <changelist id="ca566d62-0db5-4d4f-a1f9-90321a7c0ade" name="Default Changelist" comment="" />
+      <created>1593524218330</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1593507400354</updated>
+      <updated>1593524218330</updated>
     </task>
     <servers />
   </component>
@@ -172,24 +128,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/pack1/One.java">
+    <entry file="file://$PROJECT_DIR$/src/First.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pack2/One.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
