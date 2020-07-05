@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PublicAccess.iml" filepath="$PROJECT_DIR$/PublicAccess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SaticNonStatic.iml" filepath="$PROJECT_DIR$/SaticNonStatic.iml" />
     </modules>
   </component>
 </project>
